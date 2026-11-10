@@ -1,0 +1,29 @@
+{
+  "generated": "2026-11-11T00:00:00",
+  "source_root": "social",
+  "projects": {
+    "focusmerge": {
+      "photos": [
+        {
+          "full": "assets/img/focusmerge/01.jpg",
+          "thumb": "assets/img/focusmerge/thumbs/01.jpg",
+          "alt": "One frame of the stack"
+        },
+        {
+          "full": "assets/img/focusmerge/02.jpg",
+          "thumb": "assets/img/focusmerge/thumbs/02.jpg",
+          "alt": "The merged result from FocusMerge"
+        }
+      ],
+      "videos": []
+    },
+    "rfcreative": {
+      "photos": [],
+      "videos": []
+    },
+    "tagalong": {
+      "photos": [],
+      "videos": []
+    }
+  }
+}

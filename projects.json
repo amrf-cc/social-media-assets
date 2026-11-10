@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "slug": "focusmerge",
+      "client": "FocusMerge",
+      "title": "FocusMerge",
+      "location": "",
+      "years": "2026",
+      "role": "",
+      "featured": false,
+      "description": "Publishing assets for FocusMerge posts.",
+      "photos": [],
+      "videos": []
+    },
+    {
+      "slug": "rfcreative",
+      "client": "RF Creative",
+      "title": "RF Creative",
+      "location": "",
+      "years": "2026",
+      "role": "",
+      "featured": false,
+      "description": "Publishing assets for RF Creative posts.",
+      "photos": [],
+      "videos": []
+    },
+    {
+      "slug": "tagalong",
+      "client": "Tagalong",
+      "title": "Tagalong",
+      "location": "",
+      "years": "2026",
+      "role": "",
+      "featured": false,
+      "description": "Publishing assets for Tagalong posts.",
+      "photos": [],
+      "videos": []
+    }
+  ]
+}
